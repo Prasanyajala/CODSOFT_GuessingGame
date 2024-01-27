@@ -23,4 +23,5 @@ Built with Java and love for coding!
 
 Feel free to contribute to the project or customize it to suit your preferences. Enjoy the game!
 
-see the preview,how it works👀
+see the preview,how it works👀https://github.com/Prasanyajala/CODSOFT_GuessingGame/assets/153526672/563fafe9-947d-40d4-9e21-af4be742353e
+
